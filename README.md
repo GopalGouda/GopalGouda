@@ -1,16 +1,36 @@
-## Hi there 👋
+<!-- Animated header (GIF) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" alt="animated header" width="600"/>
+</p>
 
-<!--
-**GopalGouda/GopalGouda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Gopal</h1>
+<p align="center">MERN Stack • DSA • AI/ML Learner — currently enrolled in Apna College's Sigma Prime</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Current Focus
+- MERN stack projects (React + Node + Express + MongoDB)  
+- Daily DSA practice — aim: 300+ problems  
+- Fundamentals of ML & small notebook projects
+
+### 🧰 Tech & Tools
+![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React Badge](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Python Badge](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+
+### 📈 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" alt="Gopal's GitHub stats" />
+</p>
+
+### 🔥 Streak & Activity
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default" alt="streak stats" />
+</p>
+
+---
+
+### 📫 Connect
+- GitHub: https://github.com/YOUR_USERNAME  
+- LinkedIn: https://www.linkedin.com/in/YOUR_PROFILE (optional)
