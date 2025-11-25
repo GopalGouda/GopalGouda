@@ -26,7 +26,7 @@
 ![Python Badge](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
 ### 📈 GitHub Stats
-<p>
+<p align="center">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=GopalGouda&show_icons=true&theme=tokyo-night" />
 </p>
 
