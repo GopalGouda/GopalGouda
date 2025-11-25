@@ -1,6 +1,6 @@
 <!-- Animated header (GIF) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" alt="animated header" width="600"/>
+  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" alt="animated header" width="100"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Gopal</h1>
@@ -32,5 +32,5 @@
 ---
 
 ### 📫 Connect
-- GitHub: https://github.com/YOUR_USERNAME  
-- LinkedIn: https://www.linkedin.com/in/YOUR_PROFILE (optional)
+- GitHub: https://github.com/GopalGouda  
+- LinkedIn: https://in.linkedin.com/in/gopalgouda
