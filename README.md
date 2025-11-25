@@ -25,10 +25,6 @@
 ![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=GopalGouda&show_icons=true&theme=tokyo-night" />
-</p>
 
 ### 🔥 Streak & Activity
 <p align="center">
