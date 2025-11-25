@@ -27,7 +27,7 @@
 
 ### 📈 GitHub Stats
 <p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GopalGouda&theme=tokyo-night" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=GopalGouda&show_icons=true&theme=tokyo-night" />
 </p>
 
 ### 🔥 Streak & Activity
