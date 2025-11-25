@@ -27,7 +27,7 @@
 
 ### 📈 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=GopalGouda&show_icons=true&theme=default" alt="Gopal's GitHub stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GopalGouda&theme=tokyo-night" />
 </p>
 
 ### 🔥 Streak & Activity
